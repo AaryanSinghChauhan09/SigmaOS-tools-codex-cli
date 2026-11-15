@@ -1,0 +1,6 @@
+[package]
+name = "tools-codex-cli"
+version = "0.1.0"
+edition = "2021"
+description = "SigmaOS Codex CLI OpenAI-powered shell command generator"
+license = "GPL-3.0-or-later"
