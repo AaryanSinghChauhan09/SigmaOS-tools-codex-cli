@@ -3,7 +3,7 @@ name = "SigmaOS-tools-codex-cli"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "tools-codex-cli component"
+description = "tools codex cli component"
 upstream = []
 
 [contract]
