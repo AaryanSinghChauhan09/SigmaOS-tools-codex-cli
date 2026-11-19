@@ -1,3 +1,4 @@
+#![forbid(unsafe_code)]
 /// Codex CLI command generation request/response model for SigmaOS terminal.
 
 #[derive(Debug, Clone)]
